@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Shankar</h1>
 <h3 align="center">High school student</h3>
 
-- How to reach me **shankarchawla9101112 [at] gmail [dot] com**
+- email: **shankarchawla9101112 [at] gmail [dot] com**
+- discord: indefeasible
+- website: https://shankar-chawla.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
